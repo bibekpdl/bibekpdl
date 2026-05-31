@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Bibek Poudel
 
-I'm a developer with a keen interest in exploring the intersections of artificial intelligence, machine learning, and software development. I enjoy delving into topics like Large Language Models (LLMs), agent frameworks, and efficient model deployment techniques.
+I'm a developer who enjoys building, experimenting, and learning in public. Most of my work here revolves around AI tooling, agent systems, developer workflows, and small experiments that help me understand how modern software systems fit together.
 
-Most of the repositories here are personal playgrounds—experiments and projects I create as I learn and explore new concepts.
+Most of my repositories are personal experiments where I test ideas, explore new tools, and turn what I learn into practical projects.
 
 ## ✍️ Writing & Reflections
 
 I occasionally share my thoughts and experiments on Medium. Some of my recent articles include:
 
-- [How to Build Your First AI Agent Using Google’s Agent Development Kit](https://bibek-poudel.medium.com/create-your-own-ai-agent-with-googles-agent-development-kit-adk-e2294836e0fa)
-- [What is MCP and How to Create Your Own MCP Server: A Simple Guide](https://bibek-poudel.medium.com/what-is-mcp-and-how-to-create-your-own-mcp-server-a-simple-guide-7b509ede1fed)
+- [The SKILL.md Pattern: How to Write AI Agent Skills That Actually Work](https://medium.com/@bibek-poudel/the-skill-md-pattern-how-to-write-ai-agent-skills-that-actually-work-72a3169dd7ee)
+- [How OpenClaw Works: Understanding AI Agents Through a Real Architecture](https://medium.com/@bibek-poudel/how-openclaw-works-understanding-ai-agents-through-a-real-architecture-5d59cc7a4764)
+- [How to Vibe Code Without Burning Your Context Window: A Cross-Tool Setup Guide for Claude Code, Codex, Cursor, and Antigravity](https://medium.com/@bibek-poudel/how-to-vibe-code-without-burning-your-context-window-a-cross-tool-setup-guide-for-claude-code-dadb7c524ab0)
 - [Stop Fighting With OCR: Convert Any Document to Markdown, HTML, or JSON Using SmolDocling](https://bibek-poudel.medium.com/stop-fighting-with-ocr-convert-any-document-to-markdown-html-or-json-using-smoldocling-2d7b3e0d4e1a)
-- [Extract Metadata using Langchain, GPT-4 and Retrieval-augmented generation(RAG)](https://bibek-poudel.medium.com/extract-metadata-using-langchain-gpt-4-and-retrieval-augmented-generation-rag-15ae9ddce236)
 
 You can find more of my writings at [bibek-poudel.medium.com](https://bibek-poudel.medium.com).
 
